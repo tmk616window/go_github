@@ -1,0 +1,18 @@
+alias g='git'
+alias gs='git status'
+alias gp='git push origin'
+alias ga='git add'
+alias gcob='git diff'
+alias gc='git commit'
+alias gco='git checkout'
+alias gb='git branch'
+alias gl='git log'
+alias gcb='git checkout -b'
+
+alias dcp='docker compose ps'
+alias dcb='docker compose build'
+alias dcu='docker compose up'
+alias dcd='docker compose down'
+alias dce='docker compose exec'
+
+alias m='make'
